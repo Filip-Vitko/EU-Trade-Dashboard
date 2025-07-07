@@ -1,5 +1,6 @@
 # EU Trade Dashboard (2019–2024)
-[![Power BI](https://img.shields.io/badge/Built%20with-Power%20BI-yellow?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Power BI](https://img.shields.io/badge/Built%20with-Power%20BI-yellow?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ## Table of Contents
 - [Project Description](#project-description)
