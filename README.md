@@ -122,7 +122,7 @@ To interact with the dashboard:
 EU-Trade-Dashboard/
 ├── EU_Trade_Dashboard.pbix       # Power BI project file
 ├── README.md                     # Project documentation
-├── LICENSE                       # MIT license file (optional)
+├── LICENSE                       # MIT license file
 ├── images/                       # Key screenshots from the dashboard
 │   ├── overview.png
 │   ├── kpi_trends.png
