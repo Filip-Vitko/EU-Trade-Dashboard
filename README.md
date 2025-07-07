@@ -16,6 +16,7 @@
 - [Repository Structure](#repository-structure)
 - [Author](#author)
 - [License](#license)
+- [Disclaimer](#disclaimer)
 - [Screenshots](#screenshots)
 
 
@@ -120,13 +121,14 @@ To interact with the dashboard:
 ## Repository Structure
 ```
 EU-Trade-Dashboard/
-├── EU_Trade_Dashboard.pbix       # Power BI project file
-├── README.md                     # Project documentation
-├── LICENSE                       # MIT license file
 ├── images/                       # Key screenshots from the dashboard
 │   ├── overview.png
 │   ├── kpi_trends.png
 │   └── hs4_tree.png
+├── EU_Trade_Dashboard.pbix       # Power BI project file
+├── LICENSE                       # MIT license file
+├── README.md                     # Project documentation
+
 ```
 
 ---
@@ -146,3 +148,17 @@ You are free to use, modify, and distribute this project for personal or commerc
 
 ## Disclaimer
 This dashboard uses **simulated data** inspired by publicly available EU trade structures (e.g. HS codes). No proprietary or restricted datasets (such as those from Eurostat or UN Comtrade) are directly embedded or distributed.
+
+---
+
+### Screenshots
+
+**KPI Overview and Year-over-Year Trends**  
+<img src="./images/kpi_trends.png" alt="KPI and Trend Metrics" width="800"/>
+
+**Export / Import Overview with Map and Categories**  
+<img src="./images/overview.png" alt="Export Overview" width="800"/>
+
+**HS4-Level Import Breakdown**  
+<img src="./images/hs4_tree.png" alt="HS4 Decomposition Tree" width="800"/>
+
